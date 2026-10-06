@@ -40,16 +40,14 @@ Custom scoring formula based on:
 
 ### 5. Final Output – Top 30 Funds
 Extracted the **Top 30 Mutual Funds** with best return-low risk balance  
-🔗 [Top 30 Mutual Funds (Excel)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx)
-
+🔗 [Top 30 Mutual Funds (Excel)]
 ---
 
 ## 📈 Power BI Dashboard – Mutual Fund Insights
 
 After processing the data using Python and Excel, I built an **interactive dashboard** in Power BI.  
-🔗 [Power BI Dashboard File (.pbix)](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix)  
-🔗 [Dashboard Preview Image](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
-
+🔗 [Power BI Dashboard File (.pbix)]
+🔗 [Dashboard Preview Image]
 ### 📌 Key Features
 
 #### 📅 Dynamic Filters
@@ -81,7 +79,7 @@ After processing the data using Python and Excel, I built an **interactive dashb
 
 ## 🖼️ Dashboard Preview
 
-![Mutual Fund Dashboard Preview](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png)
+![Mutual Fund Dashboard Preview]
 
 ---
 
@@ -116,9 +114,9 @@ I created a tool that helps both beginners and experts make **data-driven, low-r
 
 | File | Description |
 |------|-------------|
-| [top_30_mutual_funds.xlsx](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/top_30_mutual_funds.xlsx) | Final top 30 filtered mutual funds |
-| [Mutual Fund Dashboard.pbix](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard.pbix) | Power BI dashboard |
-| [Mutual Fund Dashboard.png](https://github.com/niravtrivedi23/Mutual-Fund-Analysis/blob/main/Mutual%20Fund%20Dashboard%20.png) | Dashboard image preview |
+| [top_30_mutual_funds.xlsx] | Final top 30 filtered mutual funds |
+| [Mutual Fund Dashboard.pbix] | Power BI dashboard |
+| [Mutual Fund Dashboard.png] | Dashboard image preview |
 
 ---
 
